@@ -1,0 +1,18 @@
+body{
+    background-color:aquamarine;
+}
+#load-prev:hover{
+    color:RED;
+}
+#load-next:hover{
+    color: RED;
+}
+ol{
+    color: BLUE;
+}
+h1{
+    color: brown;
+}
+#main{
+    margin-left:40%;
+}
